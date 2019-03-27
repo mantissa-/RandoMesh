@@ -1,2 +1,3 @@
 # RandoMesh
-A Blender addon to add rendomized geometry to any mesh
+A Blender addon to add randomized geometry to any mesh
+
