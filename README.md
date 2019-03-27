@@ -5,7 +5,7 @@ Version 0.1.0
 
 ![RandoMesh 0.1.0 UI](https://i.imgur.com/hMiMV39.jpg)
 
-RandoMesh works by taking your geometry and adding random subdivisions to it. It was created to start learning about python in Blender and automate some of my workflow, so expect some bugs here and there. Make sure to alwys save your work before using this addon!
+RandoMesh works by taking your geometry and adding random subdivisions to it. It was created to start learning about python in Blender and automate some of my workflow, so expect bugs. **Make sure to always save your work before using this addon!**
 
 I've found the best results occur with meshes under 5000 polygons. Lots of iterations can really slow things down, so beware. Opening blender from a terminal will give you detailed output of each step of the process.
 
