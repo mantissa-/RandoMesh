@@ -1,7 +1,8 @@
 # RandoMesh
-A Blender addon to add randomized geometry to any mesh. Supports Blender 2.80.
+v0.1.0
 
-Version 0.1.0
+A Blender addon to add randomized geometry to any mesh. Supports Blender 2.80.
+Download RandoMesh.py and install as an addon in Blender.
 
 ![RandoMesh 0.1.0 UI](https://i.imgur.com/hMiMV39.jpg)
 
