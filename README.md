@@ -10,7 +10,7 @@ RandoMesh works by taking your geometry and adding random subdivisions to it. It
 
 I've found the best results occur with meshes under 5000 polygons. Lots of iterations can really slow things down, so beware. Opening blender from a terminal will give you detailed output of each step of the process.
 
-#### Example (Processed with default settings)
+#### Example (Subdivision smoothing set to 1.0)
 ![RandoMesh 0.1.0  Result](https://i.imgur.com/Vy40HBm.jpg)
 
 
