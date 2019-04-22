@@ -31,3 +31,12 @@ Done! (10.0s total)
 ```
 
 License: GPL v3
+
+## Changelog
+
+**0.1.1:**
+- Added option to adjust subdivision smoothing factor for all iterations
+- Github zip install now works
+
+**0.1.0:**
+Initial Release
