@@ -39,4 +39,4 @@ License: GPL v3
 - Github zip install now works
 
 **0.1.0:**
-Initial Release
+- Initial Release
