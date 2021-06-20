@@ -192,7 +192,10 @@ class RandoMesh(bpy.types.Operator):
             return random.random()*(high-low) + low
 
         def rsl(pct):
-            bpy.ops.mesh.select_random(percent=pct, seed=randint(1,9999))
+            if (2, 93, 0) > bpy.app.version:
+                bpy.ops.mesh.select_random(percentage=pct, seed=randint(1,9999))
+            else:
+                bpy.ops.mesh.select_random(ratio=pct, seed=randint(1,9999))
             
         def rgs(pct, min, max):
             rsl(pct)
